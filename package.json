@@ -1,0 +1,17 @@
+{
+  "name": "testtest",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "sk.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "the coding train",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
